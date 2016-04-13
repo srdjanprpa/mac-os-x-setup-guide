@@ -1,3 +1,4 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [System Preferences](SystemPreferences/README.md)
+* [Xcode](Xcode/README.md)

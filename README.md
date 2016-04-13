@@ -1,3 +1,8 @@
-# My Awesome Book
+[Mac OS X Setup](http://srdjanprpa.com/mac-setup)
+====================
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Ova knjiga pokriva osnove upostavljanja razvojnog okruženja na novom MacBook-u za većinu glavnih jezika. Sve instrukcije obuhvaćene su testirane na El Capitano OS X.
+
+[![Screen](/assets/apple.png)](/assets/apple.png)
+
+Podesićemo [Node](http://nodejs.org) (JavaScript), GIT, MongoDB, Iterm 2, Atom.io, MySQL, Appache i ...
