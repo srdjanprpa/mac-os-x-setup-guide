@@ -2,7 +2,7 @@
 
 Homebrew je package manager za instaliranje i ažuriranje aplikacija za operativni sistem a i za biblioteke za programske jezike. Homebrew je jedan od najpopularnijih za OS X.
 
-# Instalacija
+#### Instalacija
 
 Pokrenite instalaciju preko komande linije
 

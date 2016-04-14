@@ -1,23 +1,11 @@
 ## iTerm2
 
-Since we're going to be spending a lot of time in the command-line, let's install a better terminal than the default one. Download and install [iTerm2](http://www.iterm2.com/).
+Pošto dosta vremena provodim u terminalu, instaliraću iTerm2 koji je bolji od default-nog terminala na Mac-u.
+Skinitie i instalirajte [iTerm2](http://www.iterm2.com/) sa njihovog sajta.
 
-In **Finder**, drag and drop the **iTerm** Application file into the **Applications** folder.
+U **Finder**, prekopirajte **iTerm** aplikaciju u **Applications** folder.
 
-You can now launch iTerm, through the **Launchpad** for instance.
+Sad možete da pokrente iTerm preko **Spotlight Search**
 
-Let's just quickly change some preferences.
-
-### Colors and Font Settings
-- Set hotkey to open and close the terminal to `command + option + i`
-- Go to profiles -> Default -> Terminal -> Check silence bell
-- Download the [Solarized dark iterm colors](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized) from here. And then set these to your default profile colors.
-- Change the cursor text and cursor color to yellow make it more visible
-- Change the font to 14pt Source Code Pro Lite. Source Code Pro can be downloaded from [here](https://github.com/adobe-fonts/source-code-pro/releases/latest).
-- If you're using BASH instead of ZSH you could add `export CLICOLOR=1` line to your `~/.bash_profile` file for nice coloring of listings.
-
-### Otvaranje u celom prozoru
+#### Otvaranje u celom prozoru
 - iTerm -> Preferences -> Profiles -> Windows u Style dropdown podesiti na Fullscreen
-
-
-[![Screen](/assets/Iterm.png)](assets/Iterm.png)

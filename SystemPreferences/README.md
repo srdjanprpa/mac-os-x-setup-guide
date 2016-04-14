@@ -4,28 +4,28 @@ Prvo što treba da uradite, na bilo kom OS, jeste da ažurirate sistem! To uradi
 
 Ako je kompljuter novi, ovde imamo par stvari koje treba da uradite u System Preferences. Nemorate sve da podesite kako je u knjizi, ovo su samo par upustava koja su podešena kod mene.
 
-### General
+#### General
 - Smanjiti font u Sidebar-u, Sidebar icon size: Small
 
-### Dock
+#### Dock
 - Smanjite veličinu ikonica
 - Podesiti Minimize windows usig na Scale effect
 - Štiklirati Minimize windows into application icon
 
-### Spotlight
+#### Spotlight
 - Odštiklirati font, image i stvari koje ne koristite.
 
-### Trackpad
+#### Trackpad
 - Point & Click
     - Štiklirati Tap to Click with one finger
 
-### Accounts
+#### Accounts
 - Dodati iCloud nalog i setoviti sync sa stvarima koje koristite.
 
-### Users and Groups
+#### Users and Groups
 - Podesite password, apple id, sliku i ...
 
-### Menubar
+#### Menubar
 - Klikom na bateriju štiklirati Show percentage
 
 #### Ako koristite OSX 10.11 (El Capitan), omogućite System Integrity Protection.
