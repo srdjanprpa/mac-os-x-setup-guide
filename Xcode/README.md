@@ -6,4 +6,4 @@ Za instalaciju Xcode command line, pokrenite komandu u terminalu:
 
         xcode-select --install
 
-Pratite instrukcije prilikom instalacije, kad se završi instalacija pokrenite Xcode i prihvatite uslove korišćenja.
+Pratite instrukcije prilikom instalacije, kad se instalacija završi pokrenite Xcode i prihvatite uslove korišćenja.

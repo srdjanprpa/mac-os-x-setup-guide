@@ -4,6 +4,8 @@ Prvo što treba da uradite, na bilo kom OS, jeste da ažurirate sistem! To uradi
 
 Ako je kompljuter novi, ovde imamo par stvari koje treba da uradite u System Preferences. Nemorate sve da podesite kako je u knjizi, ovo su samo par upustava koja su podešena kod mene.
 
+### General
+- Smanjiti font u Sidebar-u, Sidebar icon size: Small
 
 ### Dock
 - Smanjite veličinu ikonica
