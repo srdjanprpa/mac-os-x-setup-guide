@@ -12,6 +12,9 @@ Ako je kompljuter novi, ovde imamo par stvari koje treba da uradite u System Pre
 - Podesiti Minimize windows usig na Scale effect
 - Štiklirati Minimize windows into application icon
 
+#### Security & Privacy
+- Dozvoliti paljenje applikacija koje nisu na Mac App Store i koje nemaju Apple Identifided Developers
+
 #### Spotlight
 - Odštiklirati font, image i stvari koje ne koristite.
 

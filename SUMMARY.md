@@ -6,4 +6,5 @@
     * [ZSH](iTerm2/zsh.md)
 * [Homebrew](Homebrew/README.md)
 * [MongoDB](MongoDB/README.md)
+* [MySQL](MySQL/README.md)
 * [Redis](Redis/README.md)
