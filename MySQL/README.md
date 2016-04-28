@@ -10,6 +10,10 @@ Nakon instalacije podesimo MySQL
         $ mkdir /usr/local/var
         $ mysqld -initialize --verbose --user=whoami --basedir="$(brew --prefix mysql)" --datadir=/usr/local/var/mysql --tmpdir=/tmp
 
+Nakon podesavanja ostalo nam je da u .bashrc ili ako koristite Zsh onda u .zshrc podesite mysql export
+
+        export MYSQL_PATH="/usr/local/mysql/bin"
+
 #### Korišćenje MySQL
 
 Pokretanje MySQL servera
